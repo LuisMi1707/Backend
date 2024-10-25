@@ -31,9 +31,9 @@ namespace Backend.Controllers
                 return NotFound();
             }
             return Ok(persona);
-
-
-
         }
+
+
     }
+
 }
